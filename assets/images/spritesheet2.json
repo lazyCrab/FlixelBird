@@ -1,0 +1,85 @@
+{"frames": [
+
+{
+	"filename": "bg.png",
+	"frame": {"x":2,"y":2,"w":144,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":256},
+	"sourceSize": {"w":144,"h":256}
+},
+{
+	"filename": "dead.png",
+	"frame": {"x":169,"y":200,"w":17,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap down.png",
+	"frame": {"x":169,"y":186,"w":17,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap mid.png",
+	"frame": {"x":188,"y":184,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap up.png",
+	"frame": {"x":169,"y":172,"w":17,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "ground.png",
+	"frame": {"x":148,"y":2,"w":154,"h":56},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":56},
+	"sourceSize": {"w":154,"h":56}
+},
+{
+	"filename": "pipe cap.png",
+	"frame": {"x":169,"y":158,"w":26,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":12},
+	"sourceSize": {"w":26,"h":12}
+},
+{
+	"filename": "pipe main.png",
+	"frame": {"x":197,"y":158,"w":24,"h":6},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":24,"h":6},
+	"sourceSize": {"w":26,"h":6}
+},
+{
+	"filename": "gameover.png",
+	"frame": {"x":148,"y":158,"w":94,"h":19},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":19},
+	"sourceSize": {"w":94,"h":19}
+}
+],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "spritesheet2.png",
+	"format": "RGBA8888",
+	"size": {"w":206,"h":260},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e73a83de90f19effcf9dec3d93605272:3de76f77853315424040f1ea4437ff96:bc5e4c3e253241b36d5edc96e79f938b$"
+}
+}

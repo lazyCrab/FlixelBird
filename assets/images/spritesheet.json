@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "bg.png",
+	"frame": {"x":2,"y":2,"w":144,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":256},
+	"sourceSize": {"w":144,"h":256}
+},
+{
+	"filename": "dead.png",
+	"frame": {"x":102,"y":397,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap down.png",
+	"frame": {"x":88,"y":397,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap mid.png",
+	"frame": {"x":74,"y":397,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "flap up.png",
+	"frame": {"x":60,"y":397,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+	"sourceSize": {"w":17,"h":12}
+},
+{
+	"filename": "ground.png",
+	"frame": {"x":2,"y":260,"w":154,"h":56},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":56},
+	"sourceSize": {"w":154,"h":56}
+},
+{
+	"filename": "pipe bot.png",
+	"frame": {"x":88,"y":260,"w":26,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":135},
+	"sourceSize": {"w":26,"h":135}
+},
+{
+	"filename": "pipe top.png",
+	"frame": {"x":60,"y":260,"w":26,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":135},
+	"sourceSize": {"w":26,"h":135}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":148,"h":416},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1209e98dd6cdaef24228a0adf250155d:243bdde46b69e387455255d27a28a62f:729adc6043343cfda41c447ce8f464d6$"
+}
+}

@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"borderS",
+				"borderStyle	Int"
+			],
+			[
+				"aa",
+				"antialiasing	Bool"
+			],
+			[
+				"scoreT",
+				"scoreText	var"
+			],
+			[
+				"scor",
+				"scoreText	var"
+			],
+			[
+				"re",
+				"reset(...)	Void"
+			],
+			[
+				"or",
+				"centerOrigin()	Void"
+			],
+			[
+				"bou",
+				"inWorldBounds()	Bool"
+			],
+			[
+				"hol",
+				"holeSize	var"
+			],
+			[
+				"pipe",
+				"pipeCap2	var"
+			],
+			[
+				"pip",
+				"pipeCap1	var"
+			],
+			[
+				"upda",
+				"updateHitbox()	Void"
+			],
+			[
+				"Pl",
+				"PlayState	class"
+			],
+			[
+				"pi",
+				"pipeCap2	var"
+			],
+			[
+				"he",
+				"height	Float"
+			],
+			[
+				"fli",
+				"flipY	Bool"
+			],
+			[
+				"ho",
+				"holeSize	var"
+			],
+			[
+				"FlxR",
+				"FlxRandom	flixel.util"
+			],
+			[
+				"ra",
+				"floatRanged(...)	Float"
+			],
+			[
+				"gro",
+				"groundHeight	var"
+			],
+			[
+				"rese",
+				"resetSizeFromFrame()	Void"
+			],
+			[
+				"i",
+				"int( x : Float )	Int"
+			],
+			[
+				"coll",
+				"collided( bird : flixel.FlxSprite )	Bool"
+			],
+			[
+				"s",
+				"STYLE_TOPDOWN	Int"
+			],
+			[
+				"Flo",
+				"follow(...)	Void"
+			],
+			[
+				"Flx",
+				"FlxG	flixel"
+			],
+			[
+				"fllo",
+				"follow(...)	Void"
+			],
+			[
+				"lo",
+				"loadGraphicFromTexture(...)	flixel.FlxSprite"
+			],
+			[
+				"ata",
+				"atan2( y : Float , x : Float )	Float"
+			],
+			[
+				"STYLE",
+				"STYLE_TOPDOWN	Int"
+			],
+			[
+				"fo",
+				"follow(...)	Void"
+			],
+			[
+				"jus",
+				"justPressed	Bool"
+			],
+			[
+				"add",
+				"addByNames(...)	Void"
+			],
+			[
+				"stat",
+				"switchState(...)	Void"
+			],
+			[
+				"FlxT",
+				"FlxText	flixel.text"
+			],
+			[
+				"p",
+				"push( x : flixel.text.FlxText )	Int"
+			],
+			[
+				"Flxt",
+				"FlxText	flixel.text"
+			],
+			[
+				"int",
+				"Int	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 5916,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/MenuState.hx",
+			"settings":
+			{
+				"buffer_size": 4028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Pipes.hx",
+			"settings":
+			{
+				"buffer_size": 3053,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colorCo",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"packac",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eric/prog/proj/mine/FlixelBird/assets/images/spritesheet2.json",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/images/spritesheet.json",
+		"/usr/lib/haxe/std/flash/display/Sprite.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/spritesheet",
+		"/usr/lib/haxe/std/flash/display/ShaderParameter.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/source/Main.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/Project.xml",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Editors/TexturePackerAtlas/source/MenuState.hx",
+		"/home/eric/Downloads/oGW6oloX.html",
+		"/home/eric/brogue-1.7.3/Makefile",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Editors/TexturePackerAtlas/assets/test-trim-rotation.json",
+		"/home/eric/prog/proj/mine/FlixelBird/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/data/spritesheet.json",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Other/FlxPongApi/source/MenuState.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/states/Balls.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/Shooter.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/Main.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/source/MenuState.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/Cursor.hxproj",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/source/Main.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/HelloFlixel/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/source/AssetPaths.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/HelloHaxeFlixel.sublime-project"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"follow",
+			"$:/themes/tiddlywiki/snowwhite",
+			"css",
+			"vanilla",
+			"anim",
+			"switch",
+			"splash",
+			"addon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3427,
+								3427
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/MenuState.hx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Pipes.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1791,
+								1791
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "FlixelBird.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
